@@ -1,6 +1,19 @@
+
 .column {
   width: 300px;
   float: left;
+}
+.column1 {
+  background-color: chocolate;
+  box-sizing: border-box;
+}
+.column2 {
+  background-color: teal;
+  box-sizing: border-box;
+}
+.column3 {
+  background-color: goldenrod;
+  box-sizing: border-box;
 }
 img{
   border: 1px solid #ddd;
